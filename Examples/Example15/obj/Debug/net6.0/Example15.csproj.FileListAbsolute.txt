@@ -1,0 +1,15 @@
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.csproj.AssemblyReference.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.AssemblyInfoInputs.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.AssemblyInfo.cs
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.csproj.CoreCompileInputs.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\bin\Debug\net6.0\Example15.exe
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\bin\Debug\net6.0\Example15.deps.json
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\bin\Debug\net6.0\Example15.runtimeconfig.json
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\bin\Debug\net6.0\Example15.dll
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\bin\Debug\net6.0\Example15.pdb
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.dll
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\refint\Example15.dll
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.pdb
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\Example15.genruntimeconfig.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example15\obj\Debug\net6.0\ref\Example15.dll
