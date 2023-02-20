@@ -1,0 +1,15 @@
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\bin\Debug\net6.0\Example13.exe
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\bin\Debug\net6.0\Example13.deps.json
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\bin\Debug\net6.0\Example13.runtimeconfig.json
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\bin\Debug\net6.0\Example13.dll
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\bin\Debug\net6.0\Example13.pdb
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.csproj.AssemblyReference.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.AssemblyInfoInputs.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.AssemblyInfo.cs
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.csproj.CoreCompileInputs.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.dll
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\refint\Example13.dll
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.pdb
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\Example13.genruntimeconfig.cache
+C:\Users\Niuta\Desktop\Seminar002\Examples\Example13\obj\Debug\net6.0\ref\Example13.dll
